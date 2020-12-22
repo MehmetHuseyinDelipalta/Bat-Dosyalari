@@ -1,0 +1,1 @@
+shutdown -s -t XXXX (süre saniye cinsinden)
